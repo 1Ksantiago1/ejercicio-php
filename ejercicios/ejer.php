@@ -5,7 +5,6 @@
 <br>
  <?php
 
- //Hola Mundo
 
 
   echo "==INICIO== <br>";
