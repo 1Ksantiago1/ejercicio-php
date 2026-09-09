@@ -5,6 +5,9 @@
 <br>
  <?php
 
+ //Hola Mundo
+
+
   echo "==INICIO== <br>";
   echo "caso 1.  recorrido_array <br> ";
   echo "caso 2.  area_del_cuadrado <br> ";
