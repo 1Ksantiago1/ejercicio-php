@@ -7,6 +7,7 @@
 
 
 
+
   echo "==INICIO== <br>";
   echo "caso 1.  recorrido_array <br> ";
   echo "caso 2.  area_del_cuadrado <br> ";
@@ -25,8 +26,11 @@
     case 2:
         require  "area_del_cuadrado.php";
         break;
+
+    #hola jaja
     
     case 3:
+    
         require "volumen_del_cubo.php";
         break; 
     
